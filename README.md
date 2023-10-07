@@ -11,7 +11,7 @@
 
 ### 2. [Introduction to Hardware and Operating Systems](https://www.coursera.org/learn/introduction-to-hardware-and-operating-systems?specialization=ibm-technical-support)
 
-####    **Certificate:**
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/AAB7FKNTYX63_
 #
 
 ### 3. [Introduction to Software, Programming, and Databases](https://www.coursera.org/learn/introduction-software-programming-and-databases?specialization=ibm-technical-support)
