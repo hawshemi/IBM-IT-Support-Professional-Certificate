@@ -16,7 +16,7 @@
 
 ### 3. [Introduction to Software, Programming, and Databases](https://www.coursera.org/learn/introduction-software-programming-and-databases?specialization=ibm-technical-support)
 
-####    **Certificate:**
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/Z7R94YEJAGTB_
 #
 
 ### 4. [Introduction to Networking and Storage](https://www.coursera.org/learn/introduction-to-networking-and-storage?specialization=ibm-technical-support)
