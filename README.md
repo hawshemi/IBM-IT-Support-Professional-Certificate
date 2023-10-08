@@ -21,7 +21,7 @@
 
 ### 4. [Introduction to Networking and Storage](https://www.coursera.org/learn/introduction-to-networking-and-storage?specialization=ibm-technical-support)
 
-####    **Certificate:**
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/RWHJ4Z9NHFDC_
 #
 
 ### 5. [Introduction to Cybersecurity Essentials](https://www.coursera.org/learn/introduction-to-cybersecurity-essentials?specialization=ibm-technical-support)
