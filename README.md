@@ -31,7 +31,7 @@
 
 ### 6. [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud?specialization=ibm-technical-support)
 
-####    **Certificate:**
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/FNAEZXP3W5AU_
 #
 
 ### 7. [Technical Support Case Studies and Capstone](https://www.coursera.org/learn/technical-support-case-studies?specialization=ibm-technical-support)
